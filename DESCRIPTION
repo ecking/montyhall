@@ -1,0 +1,15 @@
+Package: montyhall
+Title: Take a chance! Win a Car or a Goat!
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Elyse",
+           family = "King",
+           role = c("aut", "cre"),
+           email = "ecking@asu.edu",
+           comment = c(ORCID = "0000-0002-7820-8341"))
+Description: This package takes you through the monty hall game of picking a series of doors.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: dplyr

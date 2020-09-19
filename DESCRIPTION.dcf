@@ -1,0 +1,17 @@
+Package: montyhall
+Title: Select a door: Car or Goat!
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Elyse",
+           family = "King",
+           role = c("aut", "cre"),
+           email = "ecking@asu.edu",
+           comment = c(ORCID = "0000-0002-7820-8341"))
+Description: This package walks you through playing the monty hall game.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: dplyr
